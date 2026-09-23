@@ -55,3 +55,18 @@ Generate:
 - Vulnerability Maps
 - Routes
 - Decision Support Products
+
+---
+
+## Human Decision Point
+
+Urban IPB products inform the commander's assessment of the environment and threat. Course-of-action selection and mission approval remain a human responsibility.
+
+---
+
+## Technology Mapping
+
+- Infrastructure and population data: Urban Geospatial Intelligence layer
+- Threat pattern analysis: GeoAI within the Geospatial Knowledge Space
+- COA modeling: Operational Knowledge Twin
+- Decision support products: Digital Battlespace
